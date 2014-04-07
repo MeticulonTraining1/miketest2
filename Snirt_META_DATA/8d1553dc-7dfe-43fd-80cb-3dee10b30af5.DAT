@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<User xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>8d1553dc-7dfe-43fd-80cb-3dee10b30af5</Id>
+  <UserName>MeticulonTraining1</UserName>
+  <GuiDisplayName>MeticulonTraining1</GuiDisplayName>
+  <EmailDisplayName>MeticulonTraining1</EmailDisplayName>
+  <EmailAddress />
+  <IsDefault>false</IsDefault>
+  <HeadShotBitmap>iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAIAAAD/gAIDAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADVSURBVHhe7dAxAQAwEAOh+jedWvjbQQJvnMkKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyzrYPLcPBnTODq+8AAAAASUVORK5CYII=</HeadShotBitmap>
+  <Comments />
+  <MergeConflicts />
+  <Follows />
+  <FileVersionCommitExtensions />
+  <CurrentFilterCriteria>
+    <Following>false</Following>
+    <Collaborators />
+    <Tags />
+    <StartDate xsi:nil="true" />
+    <EndDate xsi:nil="true" />
+    <Unpublished>false</Unpublished>
+    <InConflict>false</InConflict>
+    <Open>false</Open>
+    <FolderEntryView>Thumbnail</FolderEntryView>
+  </CurrentFilterCriteria>
+</User>
